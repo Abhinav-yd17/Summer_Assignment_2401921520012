@@ -1,6 +1,6 @@
 # Summer Assignment
 
-**Name:** Abhinav Yadav 
+**Name:** Anushka Singhal
 **Roll Number:** 2401920310028
 
 ## About
